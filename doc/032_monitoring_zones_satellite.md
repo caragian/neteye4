@@ -82,7 +82,7 @@ const TicketSalt = ""
 ```
 
 
-**Configuration of icinga2: Zones.conf (s) **
+**Configuration of icinga2: Zones.conf on Satellite**
 Path: /neteye/local/icinga2/conf/icinga2/zones.conf
 ```
 object Endpoint "neteye4.mydomain.local" {
